@@ -1,0 +1,11 @@
+{
+  "generator_version": "release-train-1.0.0",
+  "pack": "breaks-and-bass-hooks",
+  "source_builder_sha256": "6247667a3afe3a1e9eaf278f75817e152de948af346c3a73514b9f703dccad32",
+  "commands": [
+    "python tools/build_release.py --pack breaks-and-bass-hooks",
+    "python tools/validate_release.py"
+  ],
+  "run_time_utc": "2026-11-05T14:25:09.821326+00:00",
+  "python": "3.14.0"
+}

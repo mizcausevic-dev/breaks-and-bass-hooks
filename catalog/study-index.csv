@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bh01,Cobalt Tile,pack-local equal-tempered pitch collection,A,132,4/4,480,32,61440,midi/bh01-cobalt-tile/bh01-cobalt-tile-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bh02,Offset Hook,pack-local equal-tempered pitch collection,C,132,4/4,480,32,61440,midi/bh02-offset-hook/bh02-offset-hook-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bh03,Split Corner,pack-local equal-tempered pitch collection,D#,132,4/4,480,32,61440,midi/bh03-split-corner/bh03-split-corner-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bh04,Last Turn,pack-local equal-tempered pitch collection,A#,132,4/4,480,32,61440,midi/bh04-last-turn/bh04-last-turn-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

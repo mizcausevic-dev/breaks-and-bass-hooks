@@ -1,0 +1,26 @@
+{
+  "title": "Breaks and Bass Hooks",
+  "study": "bh01",
+  "bpm": 132,
+  "source_audio": "preview/breaks-and-bass-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "0c5df48c5476fd5d8ce635d0e0cd97d09d8b9f36462b651056536dbfc76b5bf4",
+  "source_midi": "midi/bh01-cobalt-tile/bh01-cobalt-tile-combined.mid",
+  "source_midi_sha256": "1ad646f894dc7a9d5978ed230c579c5cc9daa04c02df9d5c113710ceb69a3940",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "ae7402d24c027bee5519f21ea54cc653ad50ddf4744aa0b3ebdb5fdd61f37458",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "c65147f4cebc9dc24026ea732a4a9abeb01d1905ae63f2bc85b283a663faeb1b",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "219f52def8d6b19c4749da163e224c0587aa5fed32d4c2b61a20dfb67bcb43c0",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
