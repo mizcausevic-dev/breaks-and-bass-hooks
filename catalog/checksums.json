@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/breaks-and-bass-hooks-midi.zip",
-      "bytes": 31128,
-      "sha256": "32c2876056f5bef53acb880b070d0ca134c571e959e87fc1df74e969aeff7c11"
+      "bytes": 32115,
+      "sha256": "d6219da35b1f55eb5da64ca142e0cd8559fa87f5c18d8877ceba11c30b585ec0"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9713,
-      "sha256": "fe74fad95c433029bdc4da3def99d9c43c6ff8ddf0e3963e17649309a6ca66b9"
+      "bytes": 9903,
+      "sha256": "dc9f6d06f9d957ebb5581de59712cce95ed903fe6c3afa15cf339c7962e7de01"
     },
     {
       "path": "midi/bh01-cobalt-tile/bh01-cobalt-tile-combined.mid",
@@ -377,6 +377,11 @@
       "sha256": "24cfae93e5e93fcfc61b8f7977c73780919a2d8eb8ff6a2dfc5e780d4fba9bcd"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/breaks-and-bass-hooks-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "0c5df48c5476fd5d8ce635d0e0cd97d09d8b9f36462b651056536dbfc76b5bf4"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4050,
-      "sha256": "a6a421cc29ade261f9e45c503c3a16357bb624a6cac476b5235addda8e7e69a8"
+      "bytes": 4165,
+      "sha256": "46f5bb95d6b47cc5fd3a6ba36c6765d2949e935622be2286f5541eeb24cce29a"
     },
     {
       "path": "REVISION.md",
